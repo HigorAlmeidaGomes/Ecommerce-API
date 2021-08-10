@@ -1,0 +1,12 @@
+E:\DEV\e-commerce.API\e-commerce.Domain\bin\Debug\net5.0\e-commerce.Domain.deps.json
+E:\DEV\e-commerce.API\e-commerce.Domain\bin\Debug\net5.0\e-commerce.Domain.dll
+E:\DEV\e-commerce.API\e-commerce.Domain\bin\Debug\net5.0\ref\e-commerce.Domain.dll
+E:\DEV\e-commerce.API\e-commerce.Domain\bin\Debug\net5.0\e-commerce.Domain.pdb
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.csproj.AssemblyReference.cache
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.AssemblyInfoInputs.cache
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.AssemblyInfo.cs
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.csproj.CoreCompileInputs.cache
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.dll
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\ref\e-commerce.Domain.dll
+E:\DEV\e-commerce.API\e-commerce.Domain\obj\Debug\net5.0\e-commerce.Domain.pdb

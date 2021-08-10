@@ -1,0 +1,15 @@
+E:\DEV\e-commerce.API\e-commerce.Interfaces\bin\Debug\net5.0\e-commerce.Interfaces.deps.json
+E:\DEV\e-commerce.API\e-commerce.Interfaces\bin\Debug\net5.0\e-commerce.Interfaces.dll
+E:\DEV\e-commerce.API\e-commerce.Interfaces\bin\Debug\net5.0\ref\e-commerce.Interfaces.dll
+E:\DEV\e-commerce.API\e-commerce.Interfaces\bin\Debug\net5.0\e-commerce.Interfaces.pdb
+E:\DEV\e-commerce.API\e-commerce.Interfaces\bin\Debug\net5.0\e-commerce.Domain.dll
+E:\DEV\e-commerce.API\e-commerce.Interfaces\bin\Debug\net5.0\e-commerce.Domain.pdb
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.csproj.AssemblyReference.cache
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.AssemblyInfoInputs.cache
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.AssemblyInfo.cs
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.csproj.CoreCompileInputs.cache
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.csproj.CopyComplete
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.dll
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\ref\e-commerce.Interfaces.dll
+E:\DEV\e-commerce.API\e-commerce.Interfaces\obj\Debug\net5.0\e-commerce.Interfaces.pdb
